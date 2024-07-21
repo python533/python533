@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @python533
 - 👀 I’m interested in Python,C++,Java,Js
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently creating projects in python.
 - 💞️ I’m looking to collaborate on honest and Trustworthy friends
 - 📫 How to reach me redking11@gmail.com
 
